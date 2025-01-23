@@ -9,5 +9,4 @@ Steps to run this project:
 
 
 công thức tính tổng số cho một cột, một hàng
-
 n * (n^2 + 1) /2 
